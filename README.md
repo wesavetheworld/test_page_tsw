@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _s
 ===
 
@@ -42,3 +43,9 @@ Then, update the stylesheet header in style.css and the links in footer.php with
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
+=======
+test_page_tsw
+=============
+
+WordPress test theme for job apply (One page from PSD to WP)
+>>>>>>> 350b428ed011a8873c86d9b1d9cec4e2d259de54
